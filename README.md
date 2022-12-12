@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋 soy Mateo Di Miscia</h1>
 <h3 align="center">Acá abajo están los repositorios de diversas tecnologías en procesos de aprendizaje:</h3>
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Conectá conmigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mateo-di-miscia-9a4779200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateo-di-miscia-9a4779200/" height="30" width="40" /></a>
 </p>
